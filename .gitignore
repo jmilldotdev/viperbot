@@ -1,0 +1,6 @@
+.cache
+.env
+dev.ipynb
+albums.json
+.cache
+embeddings.npy
